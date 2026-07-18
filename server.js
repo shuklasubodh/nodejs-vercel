@@ -32,4 +32,4 @@ app.get("/api/employees", (req, res) => {
 });
 
 // export instead of listen
-module.export = app;
+module.exports = app;
